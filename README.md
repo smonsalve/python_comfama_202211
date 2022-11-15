@@ -1,6 +1,6 @@
 # Programación Para Todos  (PPT)
 ## Introducción a python Comfama: Grupo 15
-
+https://badgen.net/badge/:subject/:status/:color=orange?icon=awesome
 ## Estudiantes
 
 * Alejandra Patricia Ramos Álvarez
@@ -25,27 +25,27 @@
 
 ## Contenido
 
-### C1: Introducción
+### [C1: Introducción](https://github.com/smonsalve/python_comfama_202211/tree/main/C1)
 
-### C2: Principios básicos
+### [C2: Principios básicos](https://github.com/smonsalve/python_comfama_202211/tree/main/C2)
 
-### C3: Condicionales
+### [C3: Condicionales](https://github.com/smonsalve/python_comfama_202211/tree/main/C3)
 
-### C4: Ciclos
+### [C4: Ciclos](https://github.com/smonsalve/python_comfama_202211/tree/main/C4)
 
-### C5: Funciones
+### [C5: Funciones](https://github.com/smonsalve/python_comfama_202211/tree/main/C5)
 
-### C6: Listas
+### [C6: Listas](https://github.com/smonsalve/python_comfama_202211/tree/main/C6)
 
-### C7: Diccionarios
+### [C7: Diccionarios](https://github.com/smonsalve/python_comfama_202211/tree/main/C7)
 
-### C8: 
+### [C8: ](https://github.com/smonsalve/python_comfama_202211/tree/main/C8)
 
     * Cierre del curso
     * Cómo continuar el aprendizaje
 
-### A1:
+### [A1:](https://github.com/smonsalve/python_comfama_202211/tree/main/A1)
 
-### A2: 
+### [A2: ](https://github.com/smonsalve/python_comfama_202211/tree/main/A2)
 
-### A3: Programación Orientada a Objetos
+### [A3: Programación Orientada a Objetos](https://github.com/smonsalve/python_comfama_202211/tree/main/A3)
