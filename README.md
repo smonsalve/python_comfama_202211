@@ -27,6 +27,8 @@
 
 ## Contenido
 
+### [C0: Python: Instalación e IDE's](https://github.com/smonsalve/python_comfama_202211/tree/main/C0)
+
 ### [C1: Introducción](https://github.com/smonsalve/python_comfama_202211/tree/main/C1)
 
 ### [C2: Principios básicos](https://github.com/smonsalve/python_comfama_202211/tree/main/C2)
@@ -41,13 +43,8 @@
 
 ### [C7: Diccionarios](https://github.com/smonsalve/python_comfama_202211/tree/main/C7)
 
-### [C8: ](https://github.com/smonsalve/python_comfama_202211/tree/main/C8)
-
-    * Cierre del curso
-    * Cómo continuar el aprendizaje
-
-### [A1:](https://github.com/smonsalve/python_comfama_202211/tree/main/A1)
+### [A1: ](https://github.com/smonsalve/python_comfama_202211/tree/main/A1)
 
 ### [A2: ](https://github.com/smonsalve/python_comfama_202211/tree/main/A2)
 
-### [A3: Programación Orientada a Objetos](https://github.com/smonsalve/python_comfama_202211/tree/main/A3)
+### [A3: Visualización de Datos](https://github.com/smonsalve/python_comfama_202211/tree/main/A3)
