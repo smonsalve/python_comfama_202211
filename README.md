@@ -1,6 +1,8 @@
 # Programación Para Todos  (PPT)
 ## Introducción a python Comfama: Grupo 15
-https://badgen.net/badge/:subject/:status/:color=orange?icon=awesome
+
+![Awesome](https://badgen.net/badge/:subject/:status/:color=orange?icon=awesome)
+
 ## Estudiantes
 
 * Alejandra Patricia Ramos Álvarez
