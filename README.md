@@ -3,58 +3,49 @@
 
 ## Estudiantes
 
-Alejandra Patricia Ramos Álvarez
-Andrés Mauricio Vergel Miranda
-Catalina Espinal Jaramillo 
-César Augusto Gómez González
-César Rubents Ramírez Monsalve
-Diego Alexander Higuita Jaramillo
-Edwin Alejandro Bejarano García
-Ferney De Jesús Noreña Soto 
-Fran Fernando Olarte Ramírez
-Isabella Orozco Ramírez
-José Orlando Agudelo Barrera
-Laura Vanessa Hernández Acevedo
-Luis Ernesto Paz Marulanda
-Maritza Medina Giraldo
-Marleny Jaramillo Arango
-Richard Adalber Tirado
-Sebastián Zapata Granada
-York Michel Polanco Piedrahíta
-Yuli Marina Ledezma Maturana
+* Alejandra Patricia Ramos Álvarez
+* Andrés Mauricio Vergel Miranda
+* Catalina Espinal Jaramillo 
+* César Augusto Gómez González
+* César Rubents Ramírez Monsalve
+* Diego Alexander Higuita Jaramillo
+* Edwin Alejandro Bejarano García
+* Ferney De Jesús Noreña Soto 
+* Fran Fernando Olarte Ramírez
+* Isabella Orozco Ramírez
+* José Orlando Agudelo Barrera
+* Laura Vanessa Hernández Acevedo
+* Luis Ernesto Paz Marulanda
+* Maritza Medina Giraldo
+* Marleny Jaramillo Arango
+* Richard Adalber Tirado
+* Sebastián Zapata Granada
+* York Michel Polanco Piedrahíta
+* Yuli Marina Ledezma Maturana
 
 ## Contenido
 
-### C1
-    Enlace al video de la clase:
+### C1: Introducción
 
-    * Tipos de Datos:
-        * int
-        * float
-        * String
-        * 'Simple' 
-        * "Doble"  
-        * """Triple"""
-        * bool
-    * Variables
-    * Tipado dinamico
-    * Expresiones
-    * Comentarios
-    * Entrada y Salida Básica
-    * Aritmética y Operadores
-    * Contenedores:
-        * Lista
-        * Tupla
-        * Diccionarios
-    * Valores de Verdad y Comparaciones
-  * 
-### C2
-### C3
-### C4
-### C5
-### C6
-### C7
+### C2: Principios básicos
 
-### C8
+### C3: Condicionales
+
+### C4: Ciclos
+
+### C5: Funciones
+
+### C6: Listas
+
+### C7: Diccionarios
+
+### C8: 
+
     * Cierre del curso
     * Cómo continuar el aprendizaje
+
+### A1:
+
+### A2: 
+
+### A3: Programación Orientada a Objetos

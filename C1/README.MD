@@ -1,5 +1,9 @@
 # Clase 1: Introducción a Python 
 
+[Colab Python Notebook](https://colab.research.google.com/drive/1hYd2X4EOsKq13zoeA2pD4nWHNPnsLGT3)
+[Video de la Sesión 1](https://eafit.sharepoint.com/sites/G15-PROGRAMACINPARATODOS/_layouts/15/stream.aspx?id=%2Fsites%2FG15%2DPROGRAMACINPARATODOS%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FCurso%5F%20Programaci%C3%B3n%20para%20Todos%2D20221102%5F183745%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=teamsSdk%2DopenFilePreview)
+
+
 ## Contenido de Clase
 
 * Tipos de Datos:
