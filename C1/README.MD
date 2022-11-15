@@ -1,6 +1,7 @@
 # Clase 1: Introducción a Python 
 
 ## Contenido de Clase
+
 * Tipos de Datos:
     * int
     * float
@@ -55,4 +56,5 @@
 * Use comparison operators and the if statement to decide whether to execute astatement or group ofstatements.
 * Learn about objects and Python’s dynamic typing.
 * Use built-in function type toget an object’s type.
+
 
