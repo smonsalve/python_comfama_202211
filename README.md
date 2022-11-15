@@ -43,8 +43,8 @@
 
 ### [C7: Diccionarios](https://github.com/smonsalve/python_comfama_202211/tree/main/C7)
 
-### [A1: ](https://github.com/smonsalve/python_comfama_202211/tree/main/A1)
+### [A1: Archivos Entrada y Salida](https://github.com/smonsalve/python_comfama_202211/tree/main/Sesiones%20Asincronas/A1)
 
-### [A2: ](https://github.com/smonsalve/python_comfama_202211/tree/main/A2)
+### [A2: Excepciones](https://github.com/smonsalve/python_comfama_202211/tree/main/Sesiones%20Asincronas/A2)
 
-### [A3: Visualización de Datos](https://github.com/smonsalve/python_comfama_202211/tree/main/A3)
+### [A3: Visualización de Datos](https://github.com/smonsalve/python_comfama_202211/tree/main/Sesiones%20Asincronas/A3)
