@@ -1,7 +1,7 @@
 # Programación Para Todos  (PPT)
 ## Introducción a python Comfama: Grupo 15
 
-![Awesome](https://badgen.net/badge/:subject/:status/:color=orange?icon=awesome)
+![Awesome](https://badgen.net/badge/Learning/Python/orange?icon=awesome)
 
 ## Estudiantes
 
